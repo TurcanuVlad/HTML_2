@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title> Call of Duty</title>
+    </head>
+    <body>
+        <div style="font-family: 'Arial Black'; text-align: center;"> 
+        <h1><u>Somnoroase păsărele...</u> </h1>
+        <hr style="background: rgb(1, 8, 209); height: 4px;">
+             <div style="text-align: left; font-size: 14px; color:rgb(1, 8, 1)">
+             <i>
+Somnoroase păsărele       <br>
+Pe la cuiburi se adună,            <br>
+Se ascund în rămurele         <br>
+Noapte bună!   <br> </i> </div> 
+                    <br>
+            <div style="text-align:left; font-size: 14px; color:rgb(82, 78, 77)">
+Doar izvoarele suspină,       <br>
+Pe când codrul negru tace;         <br>
+Dorm şi florile-n grădină -   <br>
+Dormi în pace!         <br> </div>
+                    <br>
+            <div style="text-align: center; font-size: 14px; color:rgb(41, 80, 116)">
+Trece lebăda pe ape          <br>
+Între trestii să se culce -     <br>
+Fie-ţi îngerii aproape,<br>
+<b>Somnul dulce! </b>      <br>    
+    </div>
+<div style="text-align: right; font-size: 14px; color:rgb(71, 172, 254)">
+Peste-a nopţii feerie          <br>
+Se ridică mândra lună,     <br>
+Totu-i vis şi armonie -
+Noapte bună!     <br>    
+    </div>
+<hr style="background:rgba(93, 81, 57, 0.5); height: 6px;" >
+
+     Mihai Eminescu
+    </body>
+</html>
